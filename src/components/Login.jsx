@@ -8,11 +8,11 @@ function Login() {
         <div className="login__content">
           <label>
             Email Address
-            <input type="text" placeholder="Enter email" />
+            <input type="text" placeholder="Enter email..." />
           </label>
           <label>
             Password
-            <input type="password" placeholder="Enter password" />
+            <input type="password" placeholder="Enter password..." />
           </label>
         </div>
         <label className="login__remember">
